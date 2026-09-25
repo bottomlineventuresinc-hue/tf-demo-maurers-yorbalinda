@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'General building, electrical, kitchen and bath remodels, and service upgrades. Across Yorba Linda and Orange County. Dennis looks at the job first and puts the price in writing.';
+            'General building, electrical, kitchen and bath remodels, and service upgrades in Yorba Linda. Dennis looks at the job first and puts the price in writing.';
         }
       }
     },
