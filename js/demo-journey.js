@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'General building, kitchen and bath remodel, and electrical service upgrades for Yorba Linda, OC, and nearby IE homes. You get a fixed itemised quote before we start, Dennis as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'General building, electrical, kitchen and bath remodels, and service upgrades. Across Yorba Linda and Orange County. Dennis looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Kitchens and baths,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Yorba Linda remodels<br>and electrical,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Kitchen remodel (written programme)';
+          serviceFirst.textContent = 'Kitchen remodels (written price)';
         }
       }
     }

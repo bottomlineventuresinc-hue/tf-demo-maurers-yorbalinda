@@ -1,10 +1,20 @@
-PHOTO SOURCES — hs-019-maurers Maurers (Wave 4 2026-09-19 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-019-maurers Maurers (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — residential kitchen remodel (verified)
-services-trade.jpg — remodel interior (verified)
-job041-* — kitchen B/A typical (verified)
-job038-* — bath B/A typical (verified)
-job052-* — finish/electrical remodel typical (verified)
-people-* — tools/crew jobsite — NOT owner face
-coverage-house.jpg — residential exterior
+hero-site.jpg <- cr0925/rem-kitchen-farmhouse.jpg : Free white kitchen interior design (rawpixel CC0 https://www.rawpixel.com/image/5919940/photo-image-light-public-domain-shadow)
+services-trade.jpg <- cr0925/rem-framing-interior.jpg : House framing (rawpixel CC0 https://www.rawpixel.com/image/4029901/photo-image-wood-construction-building)
+people-crew.jpg <- cr0925/rem-hammer.jpg : Hammer Tool (stocksnap CC0 https://stocksnap.io/photo/hammer-tool-XQWS5SOONG)
+people-marek.jpg <- wave11/elec-breakers-row.jpg : row of breakers with wiring (StockSnap CC0 6Y6VEZPDC1)
+people-tom.jpg <- cr0925/rem-kitchen-island.jpg : Free kitchen interior design image (rawpixel CC0 https://www.rawpixel.com/image/5919921/photo-image-light-public-domain-shadow)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+rem-demo-lumber.jpg <- cr0925/rem-demo-lumber.jpg : Old boards with nails from home renovation demolition (wordpress CC0 https://wordpress.org/photos/photo/42263030bb/)
+rem-kitchen-farmhouse.jpg <- cr0925/rem-kitchen-farmhouse.jpg : Free white kitchen interior design (rawpixel CC0 https://www.rawpixel.com/image/5919940/photo-image-light-public-domain-shadow)
+rem-level-hands.jpg <- cr0925/rem-level-hands.jpg : Level Construction (stocksnap CC0 https://stocksnap.io/photo/level-construction-5HW69DS6ER)
+rem-bath-tub.jpg <- cr0925/rem-bath-tub.jpg : Bathroom in Luxury Home (flickr PDM https://www.flickr.com/photos/96511847@N04/10798221476)
+rem-framing-single.jpg <- cr0925/rem-framing-single.jpg : rem-framing-single (rawpixel CC0 https://www.rawpixel.com/image/6055151/free-public-domain-cc0-photo)
+rem-room-drywall.jpg <- cr0925/rem-room-drywall.jpg : Room Window (stocksnap CC0 https://stocksnap.io/photo/room-window-T3QP4DRXS2)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: maurers.com is a for-sale lander not owned by the lead, NOT linked or offered.
